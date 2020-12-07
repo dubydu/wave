@@ -10,7 +10,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     // MARK: - UI
     @IBOutlet weak var distanceSlider: UISlider!
 
